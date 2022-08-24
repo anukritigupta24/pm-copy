@@ -102,7 +102,7 @@ components:
       type: object
       required:
         - code
-        - message
+        - messaged
       properties:
         code:
           type: integer
