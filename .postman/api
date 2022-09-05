@@ -13,6 +13,8 @@ files[] = {"path":"New.yaml","metaData":{}}
 files[] = {"path":"New1.yaml","metaData":{}}
 files[] = {"path":"index.yaml","metaData":{}}
 files[] = {"path":"test.yaml","metaData":{}}
+files[] = {"path":"New.yaml","metaData":{}}
+files[] = {"path":"New1.yaml","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
