@@ -1,4 +1,4 @@
-id = d0f83ba7-72e5-4796-a87d-d089850c76d6
+id = e7d57e23-ca3b-4e74-b83a-82a6c6d80209
 
 [relations]
 
@@ -10,8 +10,7 @@ files[] = {"id":"20e05dkkjeb-74ce-4a1e-a1a5-d116c9789004uu","path":"test-coll-re
 
 [relations.apiDefinition]
 rootDirectory = postman/schemas
-files[] = {"path":"index.yaml","metaData":{}}
-files[] = {"path":"test.yaml","metaData":{}}
+files[] = {"path":"index46f8fda8-3ed0-4c58-a82d-19944ed21354.json","metaData":{}}
 
 [relations.apiDefinition.metaData]
 type = openapi:3
